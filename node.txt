@@ -1,4 +1,8 @@
 # BaLong-qwert 2020-05-25 21:40:12
+# 新加坡 - Netflix VIP1 - 03
+ssr://djEuMy5iYWxvbmdkeS5zaXRlOjU4Nzg2Om9yaWdpbjpyYzQtbWQ1OnBsYWluOlkyVndOMmhhLz9yZW1hcmtzPTVwYXc1WXFnNVoyaElDMGdUbVYwWm14cGVDQldTVkF4SUMwZ0lEQXomcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
+# 新加坡 - Netflix VIP1 - 04
+ssr://djEuNC5iYWxvbmdkeS5zaXRlOjU4Nzg2Om9yaWdpbjpyYzQtbWQ1OnBsYWluOlkyVndOMmhhLz9yZW1hcmtzPTVwYXc1WXFnNVoyaElDMGdUbVYwWm14cGVDQldTVkF4SUMwZ01EUSZwcm90b3BhcmFtPSZvYmZzcGFyYW09
 # 香港 - VIP - 17
 ssr://djEuMTcuYmFsb25nZHkuc2l0ZTo1ODc4NjpvcmlnaW46cmM0LW1kNTpwbGFpbjpZMlZ3TjJoYS8_cmVtYXJrcz02YWFaNXJpdklDMGdWa2xRTVNBdElERTMmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
 # 香港 - VIP - 18
