@@ -12,6 +12,9 @@ Good luck, guys!
 
 如果你有什么问题，Please open an issues
 
+## netlify配置
+- Build command --- npm run build
+- Publish directory --- dist
 
 ## 更新说明
 - 支持SS或者SSR
